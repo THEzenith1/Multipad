@@ -1,0 +1,81 @@
+{
+  "name": "Multipad_M1",
+  "vendorProductId": 1954152448,
+  "macros": [
+    "{+KC_LGUI}4{-KC_LGUI}",
+    "{KC_LGUI,KC_5}",
+    "{KC_LGUI,KC_1}",
+    "{KC_LGUI,KC_R}{50}calc{10}{KC_ENT}",
+    "",
+    "{KC_LGUI,KC_5}{30}{KC_LCTL,KC_T}{30}youtube.com{KC_ENT}",
+    "{+KC_LGUI}e{-KC_LGUI}",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "layers": [
+    [
+      "MACRO(2)",
+      "MACRO(5)",
+      "MACRO(6)",
+      "TO(1)",
+      "MACRO(1)",
+      "MACRO(3)",
+      "KC_VOLD",
+      "KC_VOLU",
+      "MACRO(0)",
+      "KC_MPRV",
+      "KC_MPLY",
+      "KC_MNXT"
+    ],
+    [
+      "KC_A",
+      "KC_TRNS",
+      "KC_TRNS",
+      "TO(0)",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_A",
+      "KC_B",
+      "MACRO(6)",
+      "KC_N"
+    ],
+    [
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS"
+    ],
+    [
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS"
+    ]
+  ],
+  "encoders": []
+}

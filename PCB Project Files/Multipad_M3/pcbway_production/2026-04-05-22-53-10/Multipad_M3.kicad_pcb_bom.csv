@@ -1,0 +1,4 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type
+"D1, D10, D11, D12, D2, D3, D4, D5, D6, D7, D8, D9",12,~,Diode_DO-35,,,,tht
+"S1, S10, S11, S12, S2, S3, S4, S5, S6, S7, S8, S9",12,~,Choc_V1V2_1.00u,,,,tht
+U1,1,MCU_Seeed_XIAO_RP2040,Seeed_XIAO_RP2040,,,,tht

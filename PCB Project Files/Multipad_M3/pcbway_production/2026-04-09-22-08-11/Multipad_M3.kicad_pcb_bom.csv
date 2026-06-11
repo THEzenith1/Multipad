@@ -1,0 +1,5 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,LCSC
+"D1, D10, D11, D12, D2, D3, D4, D5, D6, D7, D8, D9",12,~,Diode_DO-35,,,,tht,,
+"LED1, LED2, LED3, LED4, LED5, LED6, LED7, LED8",8,LED_SK6812MINI,LED_SK6812MINI,,,,tht,RGB LED with integrated controller,C5149201
+"S1, S10, S11, S12, S2, S3, S4, S5, S6, S7, S8, S9",12,~,Choc_V1V2_1.00u,,,,tht,,
+U1,1,MCU_Seeed_XIAO_RP2040,Seeed_XIAO_RP2040,,,,tht,,
